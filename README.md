@@ -20,7 +20,7 @@
  
 # :mailbox_with_mail: Contacts
 
-[![Email](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimtaesoo7@naver.com)](kimtaesoo7@naver.com)
+[![Email](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](kimtaesoo7@naver.com)
 [![Blog](https://img.shields.io/badge/TechBlog-black?style=flat-square&logo=Tistory&logoColor=white)](https://kimtaesoo99.tistory.com)
 
 
