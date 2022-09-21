@@ -2,8 +2,13 @@
 
 <div align=center>
 
-![kimtaesoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaesoo99&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajoha)](https://solved.ac/javajoha/)
+<hr/>
+
+## 🙋🏻‍ ️About me
+<p>안녕하세요. 백엔드 개발자를 꿈꾸고 있는 김태수입니다. 
+
+</br>
+
 
 # 💪Skills
 ### Platforms & Languages
@@ -25,6 +30,12 @@
 [![Blog](https://img.shields.io/badge/TechBlog-black?style=flat-square&logo=Tistory&logoColor=white)](https://kimtaesoo99.tistory.com)
 
 
+
+## 💻 PS
+
+
+![kimtaesoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaesoo99&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajoha)](https://solved.ac/javajoha/)
 
 </div>
 <!--
