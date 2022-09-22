@@ -34,7 +34,6 @@
 ## 💻 PS
 
 
-![kimtaesoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaesoo99&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javajoha)](https://solved.ac/javajoha/)
 
 </div>
