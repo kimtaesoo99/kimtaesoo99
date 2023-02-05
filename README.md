@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=KimTaeSoo%20&fontSize=70)
 
 <div align=center>
 
