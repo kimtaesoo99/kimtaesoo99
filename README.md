@@ -2,29 +2,6 @@
 
 <div align=center>
 
-<hr/>
-
-## 🙋🏻‍ ️About me
-<p>안녕하세요. 백엔드 개발자를 꿈꾸고 있는 김태수입니다. 
-
-</br>
-
-
-# 💪Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-orange.svg?&style=for-the-badge&logo=AWS&logoColor=white)
-
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20IDEA-2C2255.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-
 
 # :mailbox_with_mail: Contacts
 
@@ -32,6 +9,7 @@
 [![Blog](https://img.shields.io/badge/TechBlog-black?style=flat-square&logo=Tistory&logoColor=white)](https://kimtaesoo99.tistory.com)
 
 
+  
 
 ## 💻 PS
 
